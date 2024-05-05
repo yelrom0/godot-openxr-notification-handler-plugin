@@ -1,3 +1,6 @@
+# DO NOT USE THIS YET. IT WILL NOT YET WORK.
+More changes to this readme on its way.
+
 # Godot Android Plugin Template
 This repository serves as a quickstart template for building a Godot Android plugin for Godot 4.2+.
 
